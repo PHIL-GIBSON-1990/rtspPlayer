@@ -1,5 +1,7 @@
 # rtspPlayer
 
+****Cameras connected to NVR systems may not be accessible via IP address
+
 Stream rtsp video
 
 Requires IP, user, password, and endpoint to be passed as command line arguments
